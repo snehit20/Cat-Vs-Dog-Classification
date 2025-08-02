@@ -43,12 +43,6 @@ Key steps:
 
 ---
 
-## 📊 Training Graphs
-
-*Include plots if available*
-
----
-
 ## 📌 Learnings
 
 - Built and trained my first CNN from scratch.
